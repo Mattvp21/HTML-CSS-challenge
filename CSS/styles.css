@@ -1,7 +1,7 @@
 body    {
     font-family: 'Kumbh Sans', sans-serif;
     background-size: 10000px;
-    background-color: hsl(185, 75%, 39%);;
+    background-color: hsl(185, 75%, 39%);
 }
 
 h2 {
@@ -20,14 +20,19 @@ td {
 }
 
 .attribution {
-    visibility: hidden;
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size: 16px;
+    float: right;
+    position: relative;
+    bottom: 675px;
+    left: 350px;
 }
 
 .bpattern {
     position: relative;
-    bottom: 300px;
     float: right;
-    left: 200px;
+    bottom:600px;
+    left: 100px;
 }
 
 .box {
@@ -39,7 +44,7 @@ td {
     border-style: outset;
     border-radius: 20%;
     border-width:0px;
-    bottom: 150px;
+    bottom: 800px;
 }
 
 .card {
@@ -75,6 +80,7 @@ td {
 .tpattern {
     position: relative;
     right: 200px;
+    bottom: 400px;
 }
 
 .victor {
@@ -86,3 +92,4 @@ td {
     margin-top: 100px;
     margin-left: 150px;
 }
+
