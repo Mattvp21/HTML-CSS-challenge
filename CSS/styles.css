@@ -1,0 +1,88 @@
+body    {
+    font-family: 'Kumbh Sans', sans-serif;
+    background-size: 10000px;
+    background-color: hsl(185, 75%, 39%);;
+}
+
+h2 {
+    display: inline;
+    margin-bottom: 300px;
+}
+
+table   {
+    position: absolute;
+    width: 400px;
+    right: 20px;
+}
+td {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-size:12px;    
+}
+
+.attribution {
+    visibility: hidden;
+}
+
+.bpattern {
+    position: relative;
+    bottom: 300px;
+    float: right;
+    left: 200px;
+}
+
+.box {
+    background-color: white;
+    width: 400px;
+    height: 400px;
+    margin:0 auto 0 auto;
+    position: relative; 
+    border-style: outset;
+    border-radius: 20%;
+    border-width:0px;
+    bottom: 150px;
+}
+
+.card {
+    border-style: none;
+    border-radius: 7%;
+    height: 150px;
+    width: 401px;
+    position: absolute;
+}
+
+.crest {
+    font-family: 'Kumbh Sans', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.grey {
+    color: grey;
+
+}
+
+.innerbox {
+    position: absolute;
+    margin-top: 200px;
+    text-align: center;
+    line-height: 1.5;
+    width:400px;
+    height:150px;
+}
+
+
+
+.tpattern {
+    position: relative;
+    right: 200px;
+}
+
+.victor {
+    border-style:solid;
+    border-color: white;
+    border-radius: 100%;
+    border-width:5px;
+    position: absolute;
+    margin-top: 100px;
+    margin-left: 150px;
+}
