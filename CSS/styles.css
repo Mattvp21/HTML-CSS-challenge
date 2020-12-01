@@ -11,7 +11,7 @@ h2 {
 
 table   {
     position: absolute;
-    width: 400px;
+    width: 350px;
     right: 20px;
 }
 td {
@@ -37,21 +37,22 @@ td {
 
 .box {
     background-color: white;
-    width: 400px;
-    height: 400px;
+    width: 350px;
+    height: 350px;
     margin:0 auto 0 auto;
     position: relative; 
     border-style: outset;
-    border-radius: 20%;
+    border-radius: 7%;
     border-width:0px;
-    bottom: 800px;
+    bottom: 850px;
 }
 
 .card {
     border-style: none;
-    border-radius: 7%;
+    border-top-left-radius: 7%;
+    border-top-right-radius: 7%;
     height: 150px;
-    width: 401px;
+    width: 351px;
     position: absolute;
 }
 
@@ -68,10 +69,10 @@ td {
 
 .innerbox {
     position: absolute;
-    margin-top: 200px;
+    margin-top: 185px;
     text-align: center;
     line-height: 1.5;
-    width:400px;
+    width:350px;
     height:150px;
 }
 
@@ -90,6 +91,5 @@ td {
     border-width:5px;
     position: absolute;
     margin-top: 100px;
-    margin-left: 150px;
+    margin-left: 125px;
 }
-
